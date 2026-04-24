@@ -1,13 +1,13 @@
 {
-  "name": "bot",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "bot",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "aegan.aternos.host",
-    "port":  28111,
+    "ip": "suuuuuuu234.aternos.me",
+    "port": 28799,
     "version": "",
     "try-creative": false
   },
