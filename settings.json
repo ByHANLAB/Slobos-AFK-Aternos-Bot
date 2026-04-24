@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lansuyuniyealiyon.aternos.me",
+    "ip": "aegan.aternos.host",
     "port":  28111,
     "version": "",
     "try-creative": false
